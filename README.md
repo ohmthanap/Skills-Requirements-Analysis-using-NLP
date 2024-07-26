@@ -1,4 +1,4 @@
-# Skills-Requirements-Analysis-using-NLP
+# Skills Analysis for Data Analyst Jobs using Natural Language Processing
 
 ## 1. Introduction
 
